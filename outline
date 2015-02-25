@@ -1,0 +1,12 @@
+-	I would like my opening screen to consist of photos of plates of food. When any part of the screen is clicked, the screen 
+scrolls up to reveal the start of the writing.
+
+-	Pretty early on in the piece I want to have a pie chart to depict the make up of ethnic restaurants in New York City. I want to
+make it so that hovering over each piece of the pie chart makes a box pop up (like the one in the Oscars interactive) that 
+provides basic information i.e. Middle Eastern, 57 restaurants in NYC. 15 Brooklyn, 3 Staten Island, 30 Manhattan, 2 Bronx, 
+7 Queens.
+
+-	I want to create some additional data graphs that depict the make up of the grades of these restaurants. Clicking or hovering 
+over a graph will make a space open up / pull the content below it down. In the newly created space additional information about 
+the specific type of ethnic restaurant will appear. I.e. if the average number of restaurants getting As sinks dramatically in 
+ethnic neighborhoods this will be shown. 
